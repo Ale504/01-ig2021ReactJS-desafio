@@ -36,3 +36,23 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!--END_SECTION:footer-->
 
+
+### Descrição
+
+Foram criadas as funções dentro do o arquivo _taskList.tsx_, para dar funcionalidade no projeto desafio.
+
+* **handleCreateNewTask**: Essa função permite adicionar uma nova tarefa ao estado de tasks. A tarefa terá campos como id, que deve ser gerado aleatoriamente, title, que será um texto, e isComplete, que será iniciado como falso.
+
+* **handleToggleTaskCompletion**: Essa função tem a finalidade de alterar o status de conclusão (isComplete) de uma tarefa específica, identificada por meio de um ID recebido como parâmetro.
+
+* **handleRemoveTask**: Essa função recebe um ID como parâmetro e tem a responsabilidade de remover a tarefa correspondente a esse ID do estado.
+
+Essas são as funcionalidades que devem ser implementadas no componente para atender aos requisitos mencionados.
+
+#### Para rodar o projeto
+```dash
+yarn
+```
+```dash
+yarn dev
+```
