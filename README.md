@@ -47,7 +47,7 @@ Foram criadas as funções dentro do o arquivo _taskList.tsx_, para dar funciona
 
 * **handleRemoveTask**: Essa função recebe um ID como parâmetro e tem a responsabilidade de remover a tarefa correspondente a esse ID do estado.
 
-Essas são as funcionalidades que devem ser implementadas no componente para atender aos requisitos mencionados.
+Essas são as funcionalidades que devem foram implementadas no componente para atender aos requisitos mencionados.
 
 #### Para rodar o projeto
 ```dash
